@@ -1,0 +1,33 @@
+Name: NASA GEOS Composition Forecast (GEOS-CF)
+Description: Global, near real-time and archived model analyses and forecasts of surface air pollutants 
+fine particulate matter (PM2.5), ozone (O3), and nitrogen dioxide (NO2).
+Contact: geos-cf@lists.nasa.gov
+ManagedBy: NASA Global Modeling and Assimilation Office (GMAO) (https://gmao.gsfc.nasa.gov/)
+UpdateFrequency: New analyses and forecasts are added once a day
+Tags:
+  - air quality
+  - environmental
+  - geospatial
+  - sustainability
+License: https://science.nasa.gov/earth-science/earth-science-data/data-information-policy
+Resources:
+  - Description:
+    ARN:
+    Region:
+    Type:
+DataAtWork:
+  Tutorials:
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
+  Tools & Applications:
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
+  Publications:
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
